@@ -1,15 +1,52 @@
-# Hi, I'm Amjad! 👋  
-I'm an AI Engineer passionate about using deep learning to create real-world solutions that make life easier — especially for those who need it most.
+<h1 align="center">Hi, I'm Amjad! 👩‍💻</h1>
+<p align="center">
+  <b>AI Engineer</b> | Deep Learning Enthusiast | Social Impact Creator  
+</p>
 
-## 🚀 Projects
-- **Basira**: A smart assistant for the blind that detects roads, obstacles, and objects using AI-powered vision.
+---
 
-## 🧠 Skills
-- **Languages & Frameworks**: Python, JavaScript, Flutter, HTML/CSS
-- **AI & ML**: TensorFlow, Keras, Scikit-learn, OpenCV, YOLO, MobileNet
-- **Concepts**: Image Classification, Object Detection, Transfer Learning, NLP, Model Evaluation, Data Preprocessing
-- **Tools**: Git, GitHub, Jupyter Notebook, VS Code, Colab, Postman
-- **Soft Skills**: Problem Solving, Teamwork, Fast Learning, Adaptability
+### 🧩 About Me
+I'm an AI Engineer passionate about leveraging deep learning to build impactful solutions.  
+My goal is to combine technology with empathy — and bring accessible tools to life.
 
-## 📫 Let's connect!
-[LinkedIn](http://linkedin.com/in/amjad-alghamdi-82286b210) | [Email](mailto:amjadalghamdi220@gmail.com)
+---
+
+### 🚀 Projects
+
+| Project        | Description                                                                 | Tech Stack                         |
+|----------------|-----------------------------------------------------------------------------|------------------------------------|
+| **Basira**     | Smart assistant for the blind: detects roads, obstacles & objects           | TensorFlow, Flutter, MobileNet     |
+| **Sunspot AI** | Classifies sunspots using solar images (NASA Hackathon 2024)               | CNN, OpenCV, Image Processing      |
+
+---
+
+### 🛠️ Skills
+
+**Languages:** Python, JavaScript, HTML/CSS  
+**Frameworks & Tools:** TensorFlow, Keras, YOLO, Scikit-learn, OpenCV, Flutter, Git, Colab  
+**Concepts:** Computer Vision, NLP, Object Detection, Transfer Learning, Model Optimization  
+**Soft Skills:** Adaptability, Teamwork, Critical Thinking, Fast Learning  
+
+---
+
+### 🎯 Goals
+- Launch **Basira** as a full public app  
+- Get accepted into a Master's in Data Mining  
+- Teach AI to university students  
+- Build a community of inclusive tech builders
+
+---
+
+### 📚 Currently Learning
+- Advanced Machine Learning & Data Cleaning  
+- iOS App Development (Swift + Flutter)  
+- IELTS (Self-Study Path)  
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://your-linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
